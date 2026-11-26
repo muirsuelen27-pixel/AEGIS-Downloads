@@ -1,6 +1,6 @@
 # Distribución de AEGIS
 
-[Descargar Windows x64](https://github.com/muirsuelen27-pixel/AEGIS-Downloads/releases/tag/windows-1.0-rc1) · [Página del proyecto](https://aegis-sentinel.outgoingox5.chatgpt.site/es/download/)
+[Descargar Windows x64](https://github.com/muirsuelen27-pixel/AEGIS-Downloads/releases/tag/windows-1.0-rc1) · [Página del proyecto](https://aegis-sentinel-web.pages.dev/es/download/)
 
 AEGIS permite revisar eventos de autenticación de Linux en tu propia infraestructura. Esta edición candidata para Windows incluye el backend y el panel. El archivo INICIO.txt explica el primer acceso por HTTPS.
 
